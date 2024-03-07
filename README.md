@@ -12,10 +12,9 @@ Before executing the project, please ensure that **Python 3.8 or above, Selenium
 
 ***
 
-這是一個主要由**Selenium和BeautifulSoup (bs4)** Python套件驅動的網路爬蟲。
-該爬蟲的任務是從AWS官方網站**爬取所有AWS服務的資料**，然後將資料寫入一個CSV檔案。
-CSV檔案包含四個欄位：服務、類別、URL和描述。
-
+這是一個主要由**Selenium和BeautifulSoup (bs4)** Python套件驅動的網路爬蟲。  
+該爬蟲的任務是從AWS官方網站**爬取所有AWS服務的資料**，然後將資料寫入一個CSV檔案。  
+CSV檔案包含四個欄位：服務、類別、URL和描述。  
 - 服務：AWS服務的名稱，例如EC2、RDS、S3等。
 - 類別：服務的領域分組，由AWS定義。
 - URL：服務的官方網站。
