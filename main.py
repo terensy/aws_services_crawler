@@ -113,7 +113,7 @@ class GetAwsAllServicesList():
     
     
 if __name__ == "__main__":
-    start = GetAwsAllProductsList()
+    start = GetAwsAllServicesList()
     start.process()
 
 
