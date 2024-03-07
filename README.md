@@ -1,7 +1,7 @@
 # aws_services_crawler
 
 This is a web crawler primarily powered by the **Selenium and BeautifulSoup (bs4)** Python packages. 
-The crawler's task is ==to crawl all AWS services== from the AWS official website and then write the data into a CSV file. 
+The crawler's task is **to crawl all AWS services** from the AWS official website and then write the data into a CSV file. 
 The CSV file consists of four fields: service, category, URL, and description.
 
 - Service: The name of an AWS service, such as EC2, RDS, S3, etc.
